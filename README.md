@@ -1,4 +1,5 @@
 citation-needed
 ===============
 
-A Wikipedia-based misinformation generator
+A Wikipedia-based misinformation generator 
+(requires BeautifulSoup)
